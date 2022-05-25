@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>C# Assignment</title>
+</head>
+<body>
+    <div class="straight">
+        
+        <button id="Button1">Get All Records</button><br>
+        
+        <button id="Button2">Get Single Record</button>
+        <input id="inputBox" placeholder="Enter Id" type="text"><br>
+
+        
+        <button onclick="sendJSON()" id="Button3">Post Record</button>
+        <input id="laptopNameBox" placeholder="Enter Laptop Name" type="text">
+        <input id="laptopBrandBox" placeholder="Enter Brand" type="text">
+        <input id="laptopSizeBox" placeholder="Enter Size" type="text">
+        <input id="laptopStorageBox" placeholder="Enter Capacity" type="text">
+        <input id="laptopPriceBox" placeholder="Enter Price" type="text"><br>
+
+        <button id="Button4" onclick="search()">Search Record</button >
+        <input id="search" placeholder="Enter Laptop Name" type="text" >
+        <div id="contentDiv"></div>
+    </div>
+</body>
+<script src="index.js"></script>
+</html>

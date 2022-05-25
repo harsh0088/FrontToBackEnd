@@ -1,0 +1,14 @@
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\bin\Debug\netcoreapp2.1\ConnectDbToFrontend.deps.json
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\bin\Debug\netcoreapp2.1\ConnectDbToFrontend.runtimeconfig.json
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\bin\Debug\netcoreapp2.1\ConnectDbToFrontend.runtimeconfig.dev.json
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\bin\Debug\netcoreapp2.1\ConnectDbToFrontend.dll
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\bin\Debug\netcoreapp2.1\ConnectDbToFrontend.pdb
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.csproj.CoreCompileInputs.cache
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.RazorAssemblyInfo.cache
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.RazorAssemblyInfo.cs
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.AssemblyInfoInputs.cache
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.AssemblyInfo.cs
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.RazorTargetAssemblyInfo.cache
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.dll
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.pdb
+D:\C# files\ConnectDbToFrontend\ConnectDbToFrontend\obj\Debug\netcoreapp2.1\ConnectDbToFrontend.csprojAssemblyReference.cache
